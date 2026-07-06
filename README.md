@@ -2,67 +2,91 @@
 
 ### Senior Analytics Engineer | SQL | Snowflake | dbt | Data Modeling | Healthcare Analytics
 
-I have 6+ years of experience designing and building scalable analytics solutions for the healthcare domain.
+## 👨‍💻 About Me
 
-Currently focusing on:
+I am a Senior Analytics Engineer with 6+ years of experience designing and delivering modern analytics solutions using SQL, Snowflake, dbt, and dimensional data modeling. I specialize in building scalable healthcare analytics platforms that transform raw clinical and claims data into trusted business insights.
 
+I enjoy designing dimensional data models, building reliable dbt pipelines, optimizing Snowflake workloads, and translating complex healthcare business requirements into actionable analytics.
+
+---
+
+## 💼 Core Expertise
+
+- SQL
 - Snowflake
 - dbt
-- SQL
-- Dimensional Data Modeling
+- Kimball Dimensional Modeling
+- ETL & ELT
 - Power BI
-- Git
+- Git & GitHub
 - Healthcare Analytics
+- Query Performance Optimization
 
 ---
 
 ## 🛠 Tech Stack
 
-- SQL
-- Snowflake
-- dbt
-- Git & GitHub
-- Power BI
-- Data Modeling
-- ETL
-- Healthcare Analytics
+| Category | Technologies |
+|----------|--------------|
+| Cloud Data Warehouse | Snowflake |
+| Data Transformation | dbt |
+| Database | SQL |
+| Data Modeling | Kimball Dimensional Modeling |
+| Business Intelligence | Power BI |
+| Version Control | Git & GitHub |
+| Domain | Healthcare Analytics |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏥 Patient 360 Analytics Platform
-- Built layered dbt architecture
-- Snowflake cloud data warehouse
-- Incremental pipelines
-- Kimball dimensional models
-- Readmission analytics
-- Healthcare KPI reporting
 
-Repository:
+Designed and developed an end-to-end healthcare analytics platform using **Snowflake** and **dbt**.
+
+**Highlights**
+
+- Layered dbt architecture (Staging → Intermediate → Mart)
+- Incremental data pipelines
+- Kimball dimensional modeling
+- Patient readmission analytics
+- Healthcare KPI reporting
+- Snowflake query performance optimization
+
+🔗 Repository  
 https://github.com/praveenkeshav/patient-v360_project
 
 ---
 
 ### 🩺 MIMIC-IV Clinical Analytics
 
-Healthcare analytics project using real-world clinical datasets.
+Healthcare analytics project built using the MIMIC-IV clinical dataset.
 
-Repository:
+**Highlights**
+
+- Clinical data analysis
+- SQL-based healthcare reporting
+- Patient encounter analytics
+- Healthcare data modeling
+
+🔗 Repository  
 https://github.com/praveenkeshav/mimic-iv-clinical_project
 
 ---
 
 ### 📊 Analytics Engineering Practice
 
-Learning repository covering:
+A collection of hands-on exercises and examples covering Analytics Engineering concepts.
+
+**Topics**
 
 - dbt
 - SQL
 - Snowflake
 - Git
+- Data Modeling
 
-Repository:
+🔗 Repository  
 https://github.com/praveenkeshav/dbt_progress
 
 ---
@@ -71,16 +95,17 @@ https://github.com/praveenkeshav/dbt_progress
 
 - Snowflake Performance Optimization
 - dbt CI/CD
+- Snowflake Security & Governance
 - Advanced SQL
-- Snowflake Security
 - Data Quality Testing
+- Git Best Practices
 
 ---
 
 ## 📫 Connect with Me
 
-LinkedIn:
+💼 **LinkedIn**  
 https://www.linkedin.com/in/praveenkeshav
 
-Email:
+📧 **Email**  
 prvnkshv@gmail.com
